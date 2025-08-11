@@ -24,12 +24,5 @@ Check out my blog for more insights - [odds+endpoints](https://www.oddsandendpoi
     <img src="https://github-readme-stats.vercel.app/api?username=ennnbeee&show_icons=true&theme=light" alt="GitHub Stats" />
 </div>
 
----
-If you fancy fuelling my scripts with coffee:
-
-<a href="https://buymeacoffee.com/ennnbeee">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ennnbeee&button_colour=e8561e&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" />
-</a>
-
 ![](https://komarev.com/ghpvc/?username=ennnbeee&color=grey&style=for-the-badge)
 ---
